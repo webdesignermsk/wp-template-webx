@@ -1,0 +1,15 @@
+/*   
+Theme Name: webx
+Theme URI: https://github.com/webnatrix/wp-template-webx
+Version: 4.0
+Tags: clean, development, html5, bootstrap 4
+Description: Чистый шаблон, для начало работы с bootstrap 4
+Author: webnatrix
+Author URI: https://vk.com/webnatrix
+*/
+nav.navbar{
+	margin-bottom: 15px;
+}
+#sidebar .card-body {
+    padding: .75rem;
+}
